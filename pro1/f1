@@ -8,3 +8,6 @@ sum=i+j;
 System.out.println("sum of these two numbers :"+sum);
 }
 }
+
+
+new one
