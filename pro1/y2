@@ -2,7 +2,7 @@ class b
 {
 public static void main(string [] args)
 {
-System.out.println("welcome new one");
+System.out.println("welcome new one and enter into new class");
 }
 }
 
